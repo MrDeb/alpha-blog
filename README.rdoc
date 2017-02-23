@@ -1,1 +1,5 @@
 This is the repository for alpha-blog app based on rails
+  •	Developed with Ruby on Rails, designed with Bootstrap and hosted on Heroku.
+  •	CRUD tasks could be easily performed by Using Rails Scaffold command and RESTful API. 
+  •	Used PostgreSQL as database.
+  •	https://alpha-blog-mrdeb.herokuapp.com (Link to home page).
